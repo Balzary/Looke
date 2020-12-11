@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-android-sdk-auth-userpools:2.6.31@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db0abd453edaa8fb4981d78efa17c231/jetified-aws-android-sdk-auth-userpools-2.6.31/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db0abd453edaa8fb4981d78efa17c231/jetified-aws-android-sdk-auth-userpools-2.6.31/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db0abd453edaa8fb4981d78efa17c231/jetified-aws-android-sdk-auth-userpools-2.6.31/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63497da2c4f006193a54b51be93d458c/jetified-aws-android-sdk-auth-userpools-2.6.31/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63497da2c4f006193a54b51be93d458c/jetified-aws-android-sdk-auth-userpools-2.6.31/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63497da2c4f006193a54b51be93d458c/jetified-aws-android-sdk-auth-userpools-2.6.31/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-auth-userpools/2.6.31/eb56f7d456e1358d4f1b502964d3e0e978a66d3f/aws-android-sdk-auth-userpools-2.6.31-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-auth-userpools/2.6.31/223c16b679b3bd1c8bc3a0100baa0d16ab046b5c/aws-android-sdk-auth-userpools-2.6.31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color1">#061825</color>
+    <color name="color2">#42394D</color>
+    <color name="color3">#604674</color>
+    <color name="color4">#FC9D8E</color>
+    <color name="color5">#FFF1EF</color>
+    <color name="color6">#58788D</color>
+    <color name="color_erro">#E85E77</color>
+    <color name="color_ok">#72BE9E</color>
+
+    <color name="cinza1">#666666</color>
+    <color name="cinza2">#8F8F8F</color>
+    <color name="cinza3">#B8B8B8</color>
+    <color name="cinza4">#DDDDDD</color>
+
+    <color name="navbar">#FDFDFD</color>
+    <color name="navbar_escura">#474062</color>
+    <color name="bg1_principal">#FAFAFA</color>
+    <color name="bg2_auxiliar">#F7F5F5</color>
+
+    <color name="preto">#000000</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="branco_transparente">#95FFFFFF</color>
+    <color name="branco_forever">#FDFDFD</color>
+    <color name="transparente">#00000000</color>
+    <color name="preto_transparente">#99000000</color>
+    <color name="branco_btn_transparente">#15FFFFFF</color>
+    <color name="color3_transparente">#85604674</color>
+    <color name="color1_transparente">#85826698</color>
+    <color name="branco_box_transparente_um">#90FFFFFF</color>
+    <color name="branco_box_transparente_dois">#25FFFFFF</color>
+    <color name="cinza3_box_transparente">#85B8B8B8</color>
+    <color name="branco_multiline_transparente">#20FFFFFF</color>
+    <color name="sombra_botao">#33000000</color>
+
+    <color name="branco_box_selecao_on">#40FFFFFF</color>
+    <color name="branco_box_selecao_off">#20FFFFFF</color>
+
+    <color name="color1_transparencia">#15826698</color>
+
+    <color name="grafico_vermelho">#FE2356</color>
+    <color name="grafico_laranja">#FE7F23</color>
+    <color name="grafico_roxo">#9A2DFA</color>
+    <color name="grafico_azul">#28B8AD</color>
+    <color name="grafico_verde">#64B828</color>
+
+</resources>

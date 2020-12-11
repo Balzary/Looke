@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yshrsmz:KeyboardVisibilityEvent:v3.0.0-RC2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e951df5966ee575f879db98acfc2c32e/KeyboardVisibilityEvent-v3.0.0-RC2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e951df5966ee575f879db98acfc2c32e/KeyboardVisibilityEvent-v3.0.0-RC2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e951df5966ee575f879db98acfc2c32e/KeyboardVisibilityEvent-v3.0.0-RC2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yshrsmz/KeyboardVisibilityEvent/v3.0.0-RC2/335ce7f0fb72b337c05d85bf565db75394eec43a/KeyboardVisibilityEvent-v3.0.0-RC2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yshrsmz/KeyboardVisibilityEvent/v3.0.0-RC2/de6b14ef6454ba0e270eadf288390b8bf2f8a2d/KeyboardVisibilityEvent-v3.0.0-RC2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

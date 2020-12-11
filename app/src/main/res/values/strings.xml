@@ -1,0 +1,6 @@
+<resources>
+    <string name="arrasteParaBaixo">Arraste para baixo para atualizar</string>
+    <string name="atualizando">Atualizando...</string>
+    <string name="erroProcessamento">Ocorreu um erro ao efetuar o processamento. Por favor, tente novamente.</string>
+
+</resources>
